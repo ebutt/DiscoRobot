@@ -1,10 +1,9 @@
 # DiscoRobot
 A simple robotics project using the Xbox Kinect to send data to an Arduino Uno board.
 
-Tools Used When Developing this Project:
+TOOLS USED WHEN DEVELOPING THIS PROJECT
 
 Visual Studio (Community Edition) 2015
-
 Xbox 360 Kinect
 
 Kinect SDK 1.7
